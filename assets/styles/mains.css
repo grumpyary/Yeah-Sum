@@ -1,0 +1,88 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    color: #FAFBFF;
+    font-family: Inter;
+    font-size: 3.27988rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20rem;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+    margin-left: 50rem;
+    padding-left: 20rem;
+    width: 50rem;
+    height: 7rem;
+    background-color: #0E0D12;
+}
+
+.input-one {
+    width: 11.125rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.25rem;
+    background: #1E1D25;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 3.31rem;
+}
+
+.input-two {
+    width: 11.125rem;
+    height: 3.4375rem;
+    flex-shrink: 0;
+    border-radius: 0.25rem;
+    background: #1E1D25;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 3.31rem;
+    margin-right: 4.25rem;
+}
+
+.calculate {
+    width: 10.6875rem;
+    height: 3.0625rem;
+    flex-shrink: 0;
+    border-radius: 0.25rem;
+    background: #3A6BF4;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.resultSum {
+    color: #FAFBFF;
+    font-family: Inter;
+    font-size: 3.27988rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8rem;
+}
